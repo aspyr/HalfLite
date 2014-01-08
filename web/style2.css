@@ -10,21 +10,6 @@ body {
 #logo {
 }
 
-#sidebar {
-	float:right;
-}
-
-#sidebar ul {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
-
-#sidebar li {
-	margin-bottom: 4px;
-	display: inline-block;
-}
-
 #menu {
     padding: 50px 0 15px 0;
 }

@@ -2,20 +2,20 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <link href="style.css" rel="stylesheet">
-        <title>HalfLite</title>
-        <link rel="icon" type="image/png" href="images/favicon.png">
+    <link href="http://halflite.com/style.css" rel="stylesheet">
+        <title>HalfLite Design</title>
+        <link rel="icon" type="image/png" href="http://halflite.com/images/favicon.png">
 </head>
 <body>
     <div id="header">
         <div id="logo">
-            <img id="hl" src="images/hl.png">
+            <img id="hl" src="http://halflite.com/images/hl_web.png">
         </div>
         <div id="sidebar">
         	<ul>
-        		<li><a href="https://www.facebook.com/halfliteinc" target="_blank"><img src="images/fb.png" /></a></li>
-        		<li><a href="http://www.youtube.com/user/trioProductions90" target="_blank"><img src="images/yt.png" /></a></li>
-        		<li><a href="http://twitter.com/half_films" target="_blank"><img src="images/tw.png" /></a></li>
+        		<li><a href="https://www.facebook.com/halfliteinc" target="_blank"><img src="http://halflite.com/images/fb.png" /></a></li>
+        		<li><a href="http://www.youtube.com/user/trioProductions90" target="_blank"><img src="http://halflite.com/images/yt.png" /></a></li>
+        		<li><a href="http://twitter.com/half_films" target="_blank"><img src="http://halflite.com/images/tw.png" /></a></li>
         	</ul>
         </div>
         <div id="menu">
